@@ -3,18 +3,18 @@
 <p align="center">Second Term of the Information Systems Bachelor degree - <b>FIPP/UNOESTE</b> 📚</p>
 <p align="center">Currently an intern in <b>Gere</b> - Software and Internet Network support 💼</p>
 <p align="center">Top 1% on <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank"><b>Beecrowd</b></a> 🏆</p>
-<hr>
+<br>
 <p align="center">
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-            &2nbsp
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-            &2nbsp
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-            &2nbsp
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-            &2nbsp
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-            &2nbsp
-            <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+            &ensp
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+            &ensp
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+            &ensp
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+            &ensp
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+            &ensp
+            <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
           
 </p>
