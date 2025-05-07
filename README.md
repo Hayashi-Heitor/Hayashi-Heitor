@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I,m Heitor Hayashi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" /></h1>
 
-<p align="center">Top 1% on <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank"><b>Beecrowd</b></a> 🏆</p>
-<p align="center">Software engineering student at 42 São Paulo🚀</p>
+<p align="center">Top <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank"><b>1%</b></a>on Beecrowd 🏆</p>
+<p align="center">Software engineering student at 42 São Paulo 🚀</p>
 <br>
 <p align="center">
             <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
