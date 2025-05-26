@@ -2,7 +2,6 @@
 
 <p align="center">Top <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank"><b>1%</b></a> on Beecrowd 🏆</p>
 <p align="center">Software engineering student at 42 São Paulo 🚀</p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4813751" style='border:none;'></iframe>
 <br>
 <p align="center">
             <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
