@@ -2,24 +2,18 @@
 
 <h3 align="center">My profiles in learning platforms</h3>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://tryhackme.com/p/heitorHayashi" style="margin: 0 15px;">
-    <img src="https://tryhackme.com/img/THMlogo.png" height="50">
-  </a>
-  <a href="https://leetcode.com/u/hayashiHeitor/" style="margin: 0 15px;">
-    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50">
-  </a>
-  <a href="https://www.hackerrank.com/profile/heitorhayashife1" style="margin: 0 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="50">
-  </a>
-  <a href="https://judge.beecrowd.com/pt/profile/969858" style="margin: 0 15px;">
-    <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" height="50">
-  </a>
+<div align="center">
+  <a href="https://tryhackme.com/p/heitorHayashi"><img src="https://tryhackme.com/img/THMlogo.png" height="50"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/hayashiHeitor/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/heitorhayashife1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="50"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://judge.beecrowd.com/pt/profile/969858"><img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" height="50"></a>
 </div>
 
 <p align="center">
-  <b>Top 1%</b> on Beecrowd 🏆<br>
-  Software engineering student at <img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.png" height="20"> <b>São Paulo</b> 🚀
+  Software engineering student at <b>42 São Paulo</b> 🚀
 </p>
 
 <h3 align="center">Tech Stack</h3>
