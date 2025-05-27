@@ -1,26 +1,71 @@
-<h1 align="center">Hi! I'm Heitor Hayashi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1Z2R4d2V6eG5tY2Z1Z3R4a2UybmN6N2V6bmR1d3B5dGJjY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
-
-<h3 align="center">My profiles in learning platforms</h3>
+<h1 align="center">Hi! I'm Heitor Hayashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32"></h1>
+<h3 align="center">Software Engineering Student | Cybersecurity Enthusiast | Problem Solver</h3>
 
 <div align="center">
-  <a href="https://tryhackme.com/p/heitorHayashi"><img src="https://tryhackme.com/img/THMlogo.png" height="50"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/hayashiHeitor/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/heitorhayashife1"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="50"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://judge.beecrowd.com/pt/profile/969858"><img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" height="50"></a>
+  <a href="https://42sp.org.br/" target="_blank">
+    <img src="https://img.shields.io/badge/42_SP-Cadet-blue?style=for-the-badge&logo=42" alt="42 São Paulo">
+  </a>
+  <a href="mailto:heitorhayashiferrairo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/heitor-hayashi-ferrairo-722075279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
-
-<br> <br>
-
-- Software engineering student at <b>42 São Paulo</b> 🚀
-- How to reach me **heitorhayashiferrairo@gmail.com** 📫
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayashi-heitor&show_icons=true&locale=en&layout=compact" alt="hayashi-heitor" /></p>
+<h2 align="center">Learning Platforms</h2>
+
+<div align="center">
+  <a href="https://tryhackme.com/p/heitorHayashi" target="_blank">
+    <img src="https://tryhackme.com/img/THMlogo.png" height="60" alt="TryHackMe" style="margin: 0 15px;">
+  </a>
+  <a href="https://leetcode.com/u/hayashiHeitor/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="60" alt="LeetCode" style="margin: 0 15px;">
+  </a>
+  <a href="https://www.hackerrank.com/profile/heitorhayashife1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="60" alt="HackerRank" style="margin: 0 15px;">
+  </a>
+  <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank">
+    <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" height="60" alt="Beecrowd" style="margin: 0 15px;">
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">About Me</h2>
+
+- 🎓 Software Engineering student at <b>42 São Paulo</b>
+- 🏆 Top 1% on Beecrowd competitive programming platform
+- 🔐 Passionate about cybersecurity and ethical hacking
+- 💻 Enjoy solving complex problems and algorithmic challenges
+- 🌱 Currently learning advanced algorithms, data structures and cloud security
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <h3>Programming Languages</h3>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+  <h3>Web Development</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <h3>Databases</h3>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+  <h3>DevOps & Tools</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</div>
