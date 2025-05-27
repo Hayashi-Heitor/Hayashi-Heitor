@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Cybersecurity Enthusiast | Problem Solver</h3>
 
 <div align="center">
-  <a href="https://42sp.org.br/" target="blank">
+  <a href="https://42sp.org.br/" target="_blank">
     <img src="https://img.shields.io/badge/42_SP-Cadet-blue?style=for-the-badge&logo=42" alt="42 São Paulo">
   </a>
   <a href="mailto:heitorhayashiferrairo@gmail.com">
@@ -18,16 +18,16 @@
 <h2 align="center">Learning Platforms</h2>
 
 <div align="center">
-  <a href="https://tryhackme.com/p/heitorHayashi" target="blank">
+  <a href="https://tryhackme.com/p/heitorHayashi" target="_blank">
     <img src="https://tryhackme.com/img/THMlogo.png" height="60" alt="TryHackMe" style="margin: 0 15px;">
   </a>
-  <a href="https://leetcode.com/u/hayashiHeitor/" target="blank">
+  <a href="https://leetcode.com/u/hayashiHeitor/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="60" alt="LeetCode" style="margin: 0 15px;">
   </a>
-  <a href="https://www.hackerrank.com/profile/heitorhayashife1" target="blank">
+  <a href="https://www.hackerrank.com/profile/heitorhayashife1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="60" alt="HackerRank" style="margin: 0 15px;">
   </a>
-  <a href="https://judge.beecrowd.com/pt/profile/969858" target="blank">
+  <a href="https://judge.beecrowd.com/pt/profile/969858" target="_blank">
     <img src="https://www.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png" height="60" alt="Beecrowd" style="margin: 0 15px;">
   </a>
 </div>
