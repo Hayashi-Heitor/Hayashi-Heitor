@@ -36,7 +36,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 💼 I.T Analist at <b>Porto</b>
+- 💼 Jr Software Developer at <b>Porto</b>
 - 🎓 Software Engineering student at <b>42 São Paulo</b>
 - 🏆 Top 1% on Beecrowd competitive programming platform
 - 🔐 Passionate about cybersecurity and ethical hacking
